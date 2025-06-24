@@ -1,0 +1,63 @@
+#resume {
+  background: #FFBF66;
+}
+
+.experience-section {
+  padding-bottom: 5rem;
+}
+
+.section-title {
+  color: black;
+  text-align: center;
+
+  span {
+    color: black;
+  }
+}
+
+.experience-icon {
+  font-size: 300%;
+  margin-top: 25%;
+  text-align: center;
+}
+
+.main-badge, .experience-badge {
+  text-align: left !important;
+  padding: 6px 8px !important;
+  vertical-align: baseline;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.main-badge {
+  font-size: 14px !important;
+  background-color: #00353F !important;
+  color: white;
+}
+
+.experience-badge {
+  font-size: 12px !important;
+  background-color: #D46F4D !important;
+  color: black;
+}
+
+.badge-container {
+  text-align: left;
+  margin: 15px 0 4px;
+}
+
+.vertical-timeline-element-title, .vertical-timeline-element-subtitle {
+  text-align: left;
+}
+
+.vertical-timeline-element-date {
+  padding: 0 !important;
+  margin: 0 !important;
+  font-size: 12px !important;
+}
+
+@media only screen and (max-width: 1170px) {
+  .experience-icon {
+    font-size: 170%;
+    margin-top: 27%;
+  }
+}

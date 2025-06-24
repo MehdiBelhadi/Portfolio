@@ -1,0 +1,44 @@
+#about {
+  background: #fff;
+  overflow: hidden;
+}
+
+.about-title {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font: 22px/24px 'opensans-bold', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: black;
+  text-align: center;
+}
+
+.custom-card-body {
+  white-space: pre-line;
+  height: auto;
+  font-size: 132%;
+  line-height: 200%;
+  text-align: left;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.polaroid img.profile-pic {
+  display: block;
+  max-height: 250px;
+  max-width: 200px;
+}
+
+.polaroid span {
+  background: #ffffff;
+  display: inline-block;
+  margin: 55px 75px 30px;
+  padding: 15px 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
+  transition: all .20s linear;
+  z-index: 0;
+  position: relative;
+}
