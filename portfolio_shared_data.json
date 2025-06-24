@@ -1,0 +1,100 @@
+{
+    "basic_info": {
+      "name": "Mehdi Belhadi",
+      "titles": [ "Front-end Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/MehdiBelhadi",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "mehdi.webp"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "95"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-original-wordmark",
+          "level": "95"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "75"
+        },
+        {
+          "name": "NPM",
+          "class": "devicon-npm-original-wordmark",
+          "level": "70"
+        },
+        {
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain",
+          "level": "95"
+        },
+        {
+          "name": "Sketch",
+          "class": "devicon-sketch-plain-wordmark",
+          "level": "75"
+        },
+        {
+          "name": "React",
+          "class": " devicon-react-original",
+          "level": "70"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "95"
+        },
+        {
+          "name": "Swagger",
+          "class": "devicon-swagger-plain",
+          "level": "95"
+        },
+        {
+          "name": "Trello",
+          "class": "devicon-trello-plain",
+          "level": "75"
+        },
+        {
+          "name": "Yarn",
+          "class": "devicon-yarn-original",
+          "level": "70"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
+
+

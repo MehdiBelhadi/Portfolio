@@ -1,0 +1,207 @@
+{
+    "basic_info": {
+      "description_header": "Bonjour, je m'appelle Mehdi Belhadi !👋🏼",
+      "description":  "Après avoir travaillé pendant 10 ans dans une usine pour un distributeur pharmaceutique, un plan de sauvegarde de l’emploi (PSE) a été pour moi l’occasion de repenser mon parcours professionnel.\n\nLa naissance de ma fille a été un véritable déclic : j’ai décidé de suivre une voie qui me passionne depuis l’adolescence — le développement web et la création d’interfaces. À l’époque, je suivais déjà des cours sur le Site du Zéro 🫏 et je rêvais de concevoir mes propres sites.\n\nÀ 29 ans, j’ai donc franchi le pas en entamant une formation d’Intégrateur Web sur OpenClassrooms, avec pour objectif de me spécialiser dans le développement front-end. Et ce n’est que le début ! Passionné par l’expérience utilisateur, je débuterai dès la rentrée une nouvelle formation en UX Design afin de compléter mes compétences et proposer des interfaces toujours plus intuitives et accessibles. 💻",
+      "section_name": {
+        "about": "A propos",
+        "projects": "Mes projets",
+        "skills": "Mes compétences",
+        "experience": "Mon expérience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Riding Cities",
+        "startDate": "2024",
+        "description": "Création d’une section web à partir d’une maquette Figma, pour une association.",
+        "images": [
+          "images/portfolio/ridingcities.webp"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "Bookie",
+        "startDate": "2024",
+        "description": "Intégration d’un site responsive à partir d’une maquette Figma pour une agence de voyage fictive.",
+        "images": [
+          "images/portfolio/bookie.webp"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "Oh My Food",
+        "startDate": "2024",
+        "description": "Amélioration de l'interface d'un site mobile avec des animations SASS.",
+        "images": [
+          "images/portfolio/ohmyfood.webp"
+        ],
+        "url": "https://github.com/MehdiBelhadi/ohmyfood",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "SASS"
+          }
+        ]
+      },
+      {
+        "title": "Sophie Bluel",
+        "startDate": "2025",
+        "description": "Création d'une page web dynamique pour le site internet d'une architecte d'intérieur en utilisant JavaScript et en communiquant avec une API.",
+        "images": [
+          "images/portfolio/sophiebluel.webp"
+        ],
+        "url": "https://github.com/MehdiBelhadi/p6-occ",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Nina Carducci",
+        "startDate": "2025",
+        "description": "Optimisation du référencement d'un site de photographe.",
+        "images": [
+          "images/portfolio/ninacarducci.webp"
+        ],
+        "url": "https://github.com/MehdiBelhadi/NinaCarducci-P8",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "724 events",
+        "startDate": "2025",
+        "description": "Ce projet m'a permis de débugger et de finaliser le développement d'un site événementiel one-page.",
+        "images": [
+          "images/portfolio/724events.webp"
+        ],
+        "url": "https://github.com/MehdiBelhadi/724events-P9",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-yarn-plain",
+            "name": "Yarn"
+          }
+        ]
+      },
+      {
+        "title": "ArgentBank",
+        "startDate": "2025",
+        "description": "Application bancaire, Argent Bank est une initiation à Redux avec React. L'objectif est de créer un système de connexion/déconnexion en passant par le store de Redux.",
+        "images": [
+          "images/portfolio/argentbank.webp"
+        ],
+        "url": "https://github.com/MehdiBelhadi/ArgentBank-P10",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-redux-plain",
+            "name": "Redux"
+          }
+        ]
+      },
+      {
+        "title": "Menu Maker by Qwenta",
+        "startDate": "2025",
+        "description": "Menu Maker est une initiation à Scrum une méthodologie agile de gestion de projet ainsi qu'à l'utilisation de Kanban et de la prise en main de la veille technologique.",
+        "images": [
+          "images/portfolio/menumaker.webp"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-trello-plain",
+            "name": "Trello"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "OpenClassroom",
+        "title": "Intégrateur web",
+        "years": "09.2024 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "SASS",
+          "JavaScript",
+          "React",
+          "Redux",
+          "Node JS",
+          "Swagger",
+          "Github"
+        ]
+      },
+      {
+        "company": "OCP Répartition",
+        "title": "Préparateur de commande",
+        "years": "07.2013 - 06.2024",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Rigueur",
+          "Volonté d'apprendre",
+          "Confiance en soi",
+          "Professionnalisme",
+          "Ouverture d'esprit",
+          "Travail d'équipe"
+        ]
+      }
+    ]
+  }

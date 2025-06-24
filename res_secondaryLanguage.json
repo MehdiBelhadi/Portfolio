@@ -1,0 +1,186 @@
+{
+    "basic_info": {
+      "description_header": "Hello, my name is Mehdi Belhadi! 👋🏼",
+      "description": "After working for 10 years in a factory for a pharmaceutical distributor, a redundancy plan (PSE) became an opportunity for me to rethink my career path.\n\nThe birth of my daughter was a true turning point: I decided to pursue a path that has fascinated me since my teenage years — web development and interface design. Back then, I was already taking courses on Le Site du Zéro 🫏 and dreaming of creating my own websites.\n\nAt 29, I took the leap and began a Web Integrator training program on OpenClassrooms, with the goal of specializing in front-end development. And this is just the beginning! Driven by a passion for user experience, I’ll be starting a new training course in UX Design this fall to further expand my skills and create interfaces that are even more intuitive and accessible. 💻",
+      "section_name": {
+        "about": "About",
+        "projects": "My projects",
+        "skills": "My skills",
+        "experience": "My experience"
+      }
+    },
+    "projects": [
+  {
+    "title": "Riding Cities",
+    "startDate": "2024",
+    "description": "Created a web section from a Figma mockup for an association.",
+    "images": [
+      "images/portfolio/ridingcities.webp"
+    ],
+    "url": "",
+    "technologies": [
+      {
+        "class": "devicon-html5-plain",
+        "name": "HTML5"
+      },
+      {
+        "class": "devicon-css3-plain",
+        "name": "CSS3"
+      }
+    ]
+  },
+  {
+    "title": "Bookie",
+    "startDate": "2024",
+    "description": "Developed a responsive website from a Figma mockup for a fictional travel agency.",
+    "images": [
+      "images/portfolio/bookie.webp"
+    ],
+    "url": "",
+    "technologies": [
+      {
+        "class": "devicon-html5-plain",
+        "name": "HTML5"
+      },
+      {
+        "class": "devicon-css3-plain",
+        "name": "CSS3"
+      }
+    ]
+  },
+  {
+    "title": "Oh My Food",
+    "startDate": "2024",
+    "description": "Enhanced a mobile site interface using SASS animations.",
+    "images": [
+      "images/portfolio/ohmyfood.webp"
+    ],
+    "url": "https://github.com/MehdiBelhadi/ohmyfood",
+    "technologies": [
+      {
+        "class": "devicon-html5-plain",
+        "name": "HTML5"
+      },
+      {
+        "class": "devicon-css3-plain",
+        "name": "CSS3"
+      },
+      {
+        "class": "devicon-sass-plain",
+        "name": "SASS"
+      }
+    ]
+  },
+  {
+    "title": "Sophie Bluel",
+    "startDate": "2025",
+    "description": "Built a dynamic web page for an interior architect's website using JavaScript and API communication.",
+    "images": [
+      "images/portfolio/sophiebluel.webp"
+    ],
+    "url": "https://github.com/MehdiBelhadi/p6-occ",
+    "technologies": [
+      {
+        "class": "devicon-html5-plain",
+        "name": "HTML5"
+      },
+      {
+        "class": "devicon-css3-plain",
+        "name": "CSS3"
+      },
+      {
+        "class": "devicon-javascript-plain",
+        "name": "JavaScript"
+      }
+    ]
+  },
+  {
+    "title": "Nina Carducci",
+    "startDate": "2025",
+    "description": "Optimized SEO for a photographer's website.",
+    "images": [
+      "images/portfolio/ninacarducci.webp"
+    ],
+    "url": "https://github.com/MehdiBelhadi/NinaCarducci-P8",
+    "technologies": [
+      {
+        "class": "devicon-html5-plain",
+        "name": "HTML5"
+      },
+      {
+        "class": "devicon-css3-plain",
+        "name": "CSS3"
+      }
+    ]
+  },
+  {
+    "title": "724 events",
+    "startDate": "2025",
+    "description": "Debugged and finalized the development of a one-page event website.",
+    "images": [
+      "images/portfolio/724events.webp"
+    ],
+    "url": "https://github.com/MehdiBelhadi/724events-P9",
+    "technologies": [
+      {
+        "class": "devicon-react-plain",
+        "name": "React"
+      },
+      {
+        "class": "devicon-yarn-plain",
+        "name": "Yarn"
+      }
+    ]
+  },
+  {
+    "title": "ArgentBank",
+    "startDate": "2025",
+    "description": "Banking application introducing Redux with React. Implemented login/logout functionality via Redux store.",
+    "images": [
+      "images/portfolio/argentbank.webp"
+    ],
+    "url": "https://github.com/MehdiBelhadi/ArgentBank-P10",
+    "technologies": [
+      {
+        "class": "devicon-react-plain",
+        "name": "React"
+      },
+      {
+        "class": "devicon-redux-plain",
+        "name": "Redux"
+      }
+    ]
+  },
+  {
+    "title": "Menu Maker by Qwenta",
+    "startDate": "2025",
+    "description": "Introduced to Scrum methodology, Kanban board usage, and tech watch practices through a project management simulation.",
+    "images": [
+      "images/portfolio/menumaker.webp"
+    ],
+    "url": "",
+    "technologies": [
+      {
+        "class": "devicon-trello-plain",
+        "name": "Trello"
+      }
+    ]
+  }
+],
+    "experience": [
+      {
+        "company": "OpenClassroom",
+        "title": "Web Integrator",
+        "years": "09.2024 - present",
+        "mainTech": [],
+        "technologies": ["React", "Redux", "Node JS", "Swagger", "GitHub"]
+    },
+      {
+        "company": "OCP REPARTITION",
+        "title": "Order Picker",
+        "years": "07.2013 - 06.2024",
+        "mainTech": [],
+        "technologies": ["Attention to detail", "Willingness to learn", "Self-confidence", "Professionalism", "Openness", "Teamwork"]
+      }
+    ]
+  }
