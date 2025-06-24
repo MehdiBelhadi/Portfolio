@@ -2,6 +2,7 @@
   "name": "react-frontend-dev-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mehdibelhadi.github.io/Portfolio",
   "dependencies": {
     "@iconify/icons-mdi": "^1.2.48",
     "@iconify/icons-vscode-icons": "^1.2.29",
